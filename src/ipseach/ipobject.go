@@ -1,8 +1,8 @@
-package ip
+package ipseach
 
 import (
 	"github.com/ipipdotnet/ipdb-go"
-	"y7utils/src/ip/iptocity"
+	"y7utils/src/ipseach/iptocity"
 )
 
 type ipObject struct {
